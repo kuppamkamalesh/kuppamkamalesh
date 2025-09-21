@@ -72,23 +72,18 @@
 
 ### 📂 Featured Projects
 - 🏡 **Real Estate Website** – Responsive UI built with React + Figma  
-- 🎬 **Movie Watchlist** – Add movies & check fake IMDb ratings  
+- 🎬 **Movie Watchlist** – Add movies & check IMDb ratings & Add to movies wishlist  
 - 🧵 **Fabric Defect Detection** – Deep Learning + YOLOv5 + Web UI  
 
 ---
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 <p align="center">
-  <!-- GitHub Overall Stats (real-time) -->
   <img src="https://github-readme-stats.vercel.app/api?username=kuppamkamalesh&show_icons=true&theme=radical&count_private=true" height="165"/>
   
-  <!-- Top Languages (real-time) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuppamkamalesh&layout=compact&theme=radical" height="165"/>
 </p>
-
 <p align="center">
-  <!-- Streak (real-time) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuppamkamalesh&theme=radical" alt="GitHub Streak" />
 </p>
 
