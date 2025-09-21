@@ -78,13 +78,19 @@
 ---
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuppamkamalesh&show_icons=true&theme=radical" height="165"/>
+  <!-- GitHub Overall Stats (real-time) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kuppamkamalesh&show_icons=true&theme=radical&count_private=true" height="165"/>
+  
+  <!-- Top Languages (real-time) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuppamkamalesh&layout=compact&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuppamkamalesh&theme=radical" alt="streak" />
+  <!-- Streak (real-time) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuppamkamalesh&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 ---
